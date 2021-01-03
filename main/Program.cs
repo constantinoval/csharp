@@ -1,6 +1,7 @@
 ﻿using System;
 using ClassNode;
 using ClassModel;
+using System.Linq;
 
 namespace main
 {
@@ -16,6 +17,10 @@ namespace main
             }
             Console.WriteLine(m);
             m.PrintNodes();
+            //Node.tolerance = 0.5;
+            // System.Console.WriteLine(m.nodes[1] == m.nodes[1]);
+            // System.Console.WriteLine(m.nodes[1] == m.nodes[2]);
+            // System.Console.WriteLine(m.nodes[5].length);
         }
     }
 }
