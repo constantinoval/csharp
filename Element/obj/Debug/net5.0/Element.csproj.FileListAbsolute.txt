@@ -1,0 +1,15 @@
+D:\work\c#\class_model\Element\bin\Debug\net5.0\Element.deps.json
+D:\work\c#\class_model\Element\bin\Debug\net5.0\Element.dll
+D:\work\c#\class_model\Element\bin\Debug\net5.0\ref\Element.dll
+D:\work\c#\class_model\Element\bin\Debug\net5.0\Element.pdb
+D:\work\c#\class_model\Element\bin\Debug\net5.0\Node.dll
+D:\work\c#\class_model\Element\bin\Debug\net5.0\Node.pdb
+D:\work\c#\class_model\Element\obj\Debug\net5.0\Element.csprojAssemblyReference.cache
+D:\work\c#\class_model\Element\obj\Debug\net5.0\Element.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\c#\class_model\Element\obj\Debug\net5.0\Element.AssemblyInfoInputs.cache
+D:\work\c#\class_model\Element\obj\Debug\net5.0\Element.AssemblyInfo.cs
+D:\work\c#\class_model\Element\obj\Debug\net5.0\Element.csproj.CoreCompileInputs.cache
+D:\work\c#\class_model\Element\obj\Debug\net5.0\Element.csproj.CopyComplete
+D:\work\c#\class_model\Element\obj\Debug\net5.0\Element.dll
+D:\work\c#\class_model\Element\obj\Debug\net5.0\ref\Element.dll
+D:\work\c#\class_model\Element\obj\Debug\net5.0\Element.pdb
